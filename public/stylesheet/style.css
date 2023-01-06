@@ -1,0 +1,9 @@
+.container {
+    background-image: url('../images/pexels-laura-james-6101974.jpg');
+    background-size: cover;
+    object-fit: cover;
+}
+
+.form {
+    height: 100%;
+}
